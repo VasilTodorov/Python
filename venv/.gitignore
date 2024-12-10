@@ -1,0 +1,5 @@
+# Ignore the venv directory (virtual environment folder)
+venv/
+
+# Don't ignore the .gitignore file itself (so it's tracked)
+!.gitignore
